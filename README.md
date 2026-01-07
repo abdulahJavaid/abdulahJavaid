@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 Got my basics from C++
 - 🌱 I am currently a web dev.
-- 💞️ I’m looking to collaborate on Web Projects.
-- 📫 How to rech me ...!
+- 💞️ Ready to collaborate on Web Projects.
+- 📫 How to rech me? cheema1140@gmail.com!
 
 <!---
 abdulahJavaid/abdulahJavaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
